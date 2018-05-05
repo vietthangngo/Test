@@ -9,7 +9,6 @@ public class Main {
         validatePassword.validatePassword();
         printSum.printSum();
         Arrays.taskSix();
-        Arrays.taskSix();
 
     }
 }
