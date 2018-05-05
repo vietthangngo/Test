@@ -8,8 +8,7 @@ public class Main {
         line.Line();
         validatePassword.validatePassword();
         printSum.printSum();
-        Arrays.taskSix();
-        Arrays.taskSix();
+        
 
     }
 }
