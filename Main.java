@@ -3,13 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        SayHello.sayHello();
-        reverseArgs.reverseArgs();
-        line.Line();
-        validatePassword.validatePassword();
-        printSum.printSum();
-        Arrays.taskSix();
-        Arrays.taskSix();
-
+        System.out.println("hi");
+        System.out.println("hello world !!!");
     }
 }
